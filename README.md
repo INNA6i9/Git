@@ -8,5 +8,5 @@ Hey a'm YIIB6I9 founder of Cqcpzxllc company
 ---
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div># Git
+</div>
 
