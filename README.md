@@ -45,9 +45,7 @@ YIIB6I9
 
 ---
 
-### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhmad-dany-4b313b314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/danyamd_/profilecard/?igsh=MTJ6bHNrOTF1Mms0bA==) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akhmaddany58@gmail.com)
 
 ---
 <p align="center">
