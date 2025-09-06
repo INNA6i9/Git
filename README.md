@@ -1,6 +1,6 @@
 YIIB6I9 
 
-<h1 align="center">ey there YIIB6I9 founder of Cqcpzxllc company </h1>
+<h1 align="center">Hey THERE YIIB6I9 FOUNDER OF Cqcpzxllc company </h1>
 <h3 align="center">Data Science Student at Universitas Negeri Surabaya 🇮🇩</h3>
 
 <p align="center">
